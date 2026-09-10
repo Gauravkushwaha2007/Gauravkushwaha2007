@@ -44,7 +44,7 @@ Building web applications, learning backend development, and solving Data Struct
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,electron,netlify,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,npm" />
 </p>
 
 ---
