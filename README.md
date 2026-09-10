@@ -56,11 +56,6 @@ I regularly practice DSA in **C++**.
 - Arrays & Vectors
 - Strings
 - Linked Lists
-- Stack & Queue
-- Recursion
-- Sorting & Searching
-- Trees
-- Graphs
 - LeetCode Problems
 
 📌 Check out my solutions in **[Leetcode-Solution](https://github.com/Gauravkushwaha2007/Leetcode-Solution)**.
@@ -88,9 +83,6 @@ A desktop digital-wellbeing style application for tracking active applications a
 
 ## 📚 Currently Learning
 
-- Advanced JavaScript & React
-- Backend Development with Node.js & Express.js
-- MongoDB & Authentication
 - Data Structures & Algorithms
 - Git & GitHub
 
