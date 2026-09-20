@@ -2,13 +2,35 @@
 
 # 👋 Hi, I'm Gaurav Kushwaha
 
-### 💻 Full-Stack Developer | C++ & DSA Learner
+### 💻 Full-Stack Developer • C++ & DSA Learner
 
-Building web applications, learning backend development, and solving Data Structures & Algorithms problems in C++.
+I build practical software projects, explore full-stack development, and solve Data Structures & Algorithms problems in C++.
 
 <img src="https://komarev.com/ghpvc/?username=Gauravkushwaha2007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
+
+---
+
+## 🚀 Featured Project
+
+### 🔄 AutoSync — LeetCode → GitHub
+
+A Chrome extension that automatically syncs accepted LeetCode solutions to a GitHub repository using **GitHub OAuth + PKCE**.
+
+**Highlights**
+
+- 🔐 OAuth-based GitHub authorization
+- ⚡ Automatic accepted-submission detection
+- 📦 Repository & branch selection
+- 🔁 Persistent queue and retry handling
+- 🛡️ SHA-aware GitHub updates
+- 📊 Sync dashboard and activity history
+- 🧪 39 automated tests passing
+
+**Stack:** JavaScript • Chrome Extension MV3 • GitHub API • GitHub OAuth • Node.js • Render
+
+👉 **[View AutoSync](https://github.com/Gauravkushwaha2007/LeetSync-Ext)**
 
 ---
 
@@ -34,45 +56,34 @@ Building web applications, learning backend development, and solving Data Struct
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-### 🔐 Authentication & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" />
 </p>
 
 ---
 
-## 🧠 Data Structures & Algorithms
+## 🧠 DSA
 
-I regularly practice DSA in **C++**.
+I regularly practice **DSA in C++** and build my problem-solving skills through LeetCode.
 
 - Arrays & Vectors
 - Strings
 - Linked Lists
-- LeetCode Problems
+- Problem solving
+- LeetCode practice
 
-📌 Check out my solutions in **[Leetcode-Solution](https://github.com/Gauravkushwaha2007/Leetcode-Solution)**.
+📌 **[LeetCode Solutions](https://github.com/Gauravkushwaha2007/Leetcode-Solution)**
 
 ---
 
-## 🚀 Projects
+## 🧩 Other Projects
 
 ### 🛒 Kushwaha Kirana Store
-A full-stack web project for displaying products, prices and managing an online-style shopping experience.
+A full-stack shopping-style web application with product management and MongoDB-backed data.
 
 **Tech:** Node.js • Express.js • EJS • Tailwind CSS • MongoDB • Mongoose
-
-### 🔄 LeetSync Extension
-A browser extension that helps automate the process of sending accepted LeetCode solutions to GitHub.
-
-**Tech:** JavaScript • Node.js • Express.js • GitHub API
 
 ### 🖥️ Screen Time Tracker
 A desktop digital-wellbeing style application for tracking active applications and screen usage.
@@ -84,6 +95,8 @@ A desktop digital-wellbeing style application for tracking active applications a
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
+- Full-Stack JavaScript
+- System design fundamentals
 - Git & GitHub
 
 ---
@@ -101,6 +114,6 @@ A desktop digital-wellbeing style application for tracking active applications a
 
 <div align="center">
 
-### 🚀 Keep Learning. Keep Building. Keep Solving.
+### 🚀 Keep Learning • Keep Building • Keep Solving
 
 </div>
