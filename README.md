@@ -1,10 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/Gauravkushwaha2007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=2800&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Gaurav+Kushwaha+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;C%2B%2B+%26+DSA+Learner+%F0%9F%A7%A0;Building+%E2%80%A2+Learning+%E2%80%A2+Solving+%F0%9F%9A%80" alt="Hi, I'm Gaurav Kushwaha" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=GAURAV%20KUSHWAHA&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&color=gradient&desc=Full-Stack%20Developer%20%7C%20C%2B%2B%20%26%20DSA%20Learner&descSize=19&descAlignY=63" width="100%" alt="Gaurav Kushwaha" />
 </a>
 
-### 💻 Full-Stack Developer • C++ & DSA Learner
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Hi%2C+I'm+Gaurav+Kushwaha+%F0%9F%91%8B;I+Build+%7C+I+Learn+%7C+I+Solve+%F0%9F%9A%80;Full-Stack+JavaScript+Developer+%F0%9F%92%BB;C%2B%2B+%26+DSA+Learner+%F0%9F%A7%A0" alt="Animated introduction" />
+
+<br>
 
 I build practical software projects, explore full-stack development, and solve Data Structures & Algorithms problems in C++.
 
