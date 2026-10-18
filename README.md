@@ -1,17 +1,13 @@
 <div align="center">
 
-<!-- 🌊 ANIMATED MOVING WAVE HEADER (continuously moving background) -->
-<a href="https://github.com/Gauravkushwaha2007">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,14,18,20,24&section=header&text=GAURAV%20KUSHWAHA&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&stroke=58A6FF&strokeWidth=2&desc=%E2%9A%A1%20Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Solve%20%E2%80%A2%20Repeat%20%E2%9A%A1&descSize=20&descAlignY=60" width="100%" alt="Gaurav Kushwaha" />
+<!-- 🌌 CUSTOM ANIMATED 3D BANNER (assets/banner.svg) -->
+<a href="https://gauravkushwaha.netlify.app/">
+  <img src="assets/banner.svg" width="100%" alt="Gaurav Kushwaha" />
 </a>
 
-<!-- 🔥 BIG STYLISH TYPING NAME -->
+<!-- ✨ ROLE TYPING LINE -->
 <a href="https://github.com/Gauravkushwaha2007">
-  <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=44&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=900&height=80&lines=GAURAV+KUSHWAHA+%F0%9F%94%A5;FULL-STACK+JS+DEV+%F0%9F%92%BB;C%2B%2B+%26+DSA+WARRIOR+%E2%9A%94%EF%B8%8F;CODE+%E2%80%A2+COFFEE+%E2%80%A2+REPEAT+%E2%98%95" alt="Animated name" />
-</a>
-
-<a href="https://github.com/Gauravkushwaha2007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+main+Gaurav+hoon+%F0%9F%91%8B;Practical+projects+banata+hoon+%F0%9F%9B%A0%EF%B8%8F;LeetCode+pe+roz+grind+%F0%9F%A7%A0;Chalo+kuch+naya+banate+hain+%F0%9F%9A%80" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&duration=2800&pause=900&color=FF6EC7&center=true&vCenter=true&width=800&height=55&lines=FULL-STACK+JS+DEV+%F0%9F%92%BB;C%2B%2B+%26+DSA+WARRIOR+%E2%9A%94%EF%B8%8F;CODE+%E2%80%A2+COFFEE+%E2%80%A2+REPEAT+%E2%98%95;CHALO+KUCH+NAYA+BANATE+HAIN+%F0%9F%9A%80" alt="Animated roles" />
 </a>
 
 <br/><br/>
@@ -19,6 +15,11 @@
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-00E676?style=for-the-badge&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-FF6EC7?style=for-the-badge&logo=githubsponsors&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Gauravkushwaha2007&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
+
+<a href="https://gauravkushwaha.netlify.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-gauravkushwaha.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gaurav-kushwaha07"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -213,8 +214,10 @@ A desktop digital-wellbeing style application for tracking active applications a
 
 ### 🤝 Let's Connect
 
+<a href="https://gauravkushwaha.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gaurav-kushwaha07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Gauravkushwaha2007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://github.com/Gauravkushwaha2007/Leetcode-Solution"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <br/><br/>
 
@@ -223,4 +226,4 @@ A desktop digital-wellbeing style application for tracking active applications a
 </div>
 
 <!-- 🌊 MOVING WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,14,18,20,24&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=2,6,11,20&section=footer" width="100%" />
